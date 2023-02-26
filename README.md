@@ -1,70 +1,44 @@
-# Getting Started with Create React App
+<b style="font-weight:bolder,font-size:2rem" >TODO</b>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<b style="font-weight:bold" > 🔴 Live Link of the application 🔴 👉 </b>https://avez-roxiler-todo.netlify.app/
+<h3>To Start the Project Just follow three steps</h3>
+<h4>Step 1 - Fork the repository and clone into your local directory </h4>
+<h4>Step 2 - Move into root directory of the project and type the command <b>npm i</b> </h4>
+<h4>Step 3 - Now type the command <b>npm start run</b>, and Hurrah !!🎇🎆 </h4>
+</br>
+</br>
+</br>
 
-## Available Scripts
+![rox1](https://user-images.githubusercontent.com/95353195/221444155-4b83d185-1c18-418a-b80c-b48680b4cd58.png)
 
-In the project directory, you can run:
+</br>
+</br>
+</br>
+</br>
 
-### `npm start`
+![rox2](https://user-images.githubusercontent.com/95353195/221444226-abdba5e7-a213-4c38-ac5e-29d3e61788ef.png)
+</br>
+</br>
+</br>
+</br>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![rox3](https://user-images.githubusercontent.com/95353195/221444259-eb168626-6522-4924-bb4d-8762f70ce946.png)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+</br>
+</br>
 
-### `npm test`
+<b style="font-weight:bolder,font-size:2rem" > Description   :</b>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+</br>
+</br>
+<b style="font-weight:bolder,font-size:2rem" >🔴 About this Project : </b>
 
-### `npm run build`
+🎯 TODO API Integration: Integrate an API to list the todos in a left-hand side table. The table should display columns for ID, Title, Status, and Action.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+🎯 Ascending and Descending Sort: Implement a feature to sort the Todo ID column in ascending and descending order.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+🎯 Search Functionality: Add search functionality that searches all fields of the table. If the search keyword matches any column, that row should be displayed in a list.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+🎯 Clearing Search: On clearing the search keyword, the table should display in its initial state.
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+🎯 View User: On clicking the "View User" button, call the user detail API and display a right-hand side table that includes details such as Todo ID, Todo Title, User ID, User Name, and Email.
